@@ -1,0 +1,5 @@
+1ª Classes são um tipo de construção que amazena atributos e funções (métodos) que podem ser compartilhados por vários objetos, que, seriam instancias atribuidas dessas classes.
+
+2ª Construtores são funções que só pode ser usada na inicialização de um objeto, servindo para iniciar/configurar seus parâmentros.
+
+3ª Encapsulamento cria um limte de acesso a parametros ou metodos desejados, onde somente aquela classe poderia altera-los ou executa-los, também ajuda a redução de problemas (bugs) e na manutenibilidade do sistema
