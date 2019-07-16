@@ -38,4 +38,6 @@ int main(void){
     cout << "Verifique se a cadeira que você deseja foi realmente preenchida: ";
     cin >> v;
     cout << v2.verifica(v-1) << endl;
+
+    return 0;
 }
